@@ -1,8 +1,7 @@
 # DiR Resources
 
 ## Vocabulary Drills
-### Week 1
-#### Day 2
+### Week 1 & 2
 * pwd
 * cd
 * ls
@@ -38,8 +37,6 @@
 * ===
 * truthy
 * falsy
-
-#### Day 3
 * CDN
 * Bootstrap
 * \<a> tag
@@ -73,8 +70,6 @@
 * undefined
 * object literal
 * function
-
-#### Day 4
 * relative path
 * absolute path
 * children
@@ -166,4 +161,9 @@
 
 ## Whiteboarding Exercises
 
-## Miscellaneous Activity Ideas
+## Activity Ideas
+**Method Show and Tell:** 
+
+**For both JavaScript and Ruby.** Each session should be focused on methods for a certain data type (strings, arrays, hashes, enumerables...). Give each student a notecard with a method name on it. They will have 5 minutes to research the method and come up with a quick way to demonstrate it. After the 5 minutes is up, have each student come to the front to tell the other students what the method is, what it's used for, and give a quick demo of it in Node or IRB. 
+
+This activity can take a while! For larger classes, consider splitting students into teams of 2 to speed things up. For speed and ease of use, set up a few variables of the correct data type in advance so that students can just apply their method to the variable.
